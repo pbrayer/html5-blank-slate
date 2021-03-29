@@ -1,0 +1,36 @@
+/*=Custom
+-----------------------------------------------------------*/
+
+/* Giving footer a background and putting at bottom of page */
+footer{
+    background: #cccccc;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+}
+
+
+/* Background color of header */
+.site-header {
+    background: #cccccc;
+}
+
+/* Centering copyright */
+.copyright{
+    text-align: center;
+}
+
+li{
+ list-style-type: none;
+}
+
+.current_page_item {
+    font-weight: bold !important;
+}
+
+.logo {
+   font-size: 25px;
+}
+
